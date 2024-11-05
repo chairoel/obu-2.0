@@ -1,0 +1,15 @@
+mqtt://track.transjakarta.co.id:1883
+topic /tracking/obu4g
+
+format
+{
+"busBodyNo": "KWK2222105",
+"busDeviceId" : "1527",
+"latitude" : -6.1243555,
+"longitude" : 8.53453443,
+"speed" : 9.234543
+"bearing: 261,
+"totalDistance" : 1235345
+}
+
+

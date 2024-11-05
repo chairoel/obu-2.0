@@ -1,0 +1,25 @@
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Release\TijeOBUApp.exe
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Release\TijeOBUApp.pdb
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Release\TijeOBUApp.xml
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.FormOBU.resources
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.Resources.resources
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.vbproj.GenerateResource.Cache
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.exe
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.xml
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\Interop.WMPLib.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.vbproj.ResolveComReference.cache
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.FormOBU.resources
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.Resources.resources
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.vbproj.GenerateResource.Cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\Interop.WMPLib.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.vbproj.ResolveComReference.cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.frmRute.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.Form2.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.Form3.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.FormOBU.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.Resources.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Release\TijeOBUApp.vbproj.GenerateResource.Cache

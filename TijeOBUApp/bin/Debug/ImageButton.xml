@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ImageButton
+</name>
+</assembly>
+<members>
+<member name="M:ImageButton.RipsWare.Controls.Base.Button.RipsWareImageButtonBase.GenenerateStrechedImage(System.Drawing.Bitmap@,System.Drawing.Bitmap@)">
+	<summary>
+ Generate Button state from given image (Resize the button image)
+ </summary>
+	<param name="imgSource">Source Image</param>
+	<param name="imgDest">Result image</param>
+	<remarks></remarks>
+</member><member name="M:ImageButton.RipsWare.Controls.Base.Button.TileImages.GetImage(System.Int32,System.Int32)">
+	<summary>
+ Zero base index
+ </summary>
+	<param name="row">Row of image with zero based index</param>
+	<param name="column">Column of image with zero based index</param>
+	<returns>Bitmap</returns>
+	<remarks></remarks>
+</member><member name="M:ImageButton.RipsWare.Controls.Base.Button.TileImages.CropImage(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Crop image
+ </summary>
+	<param name="sImage">Source bitmap</param>
+	<param name="x">X location</param>
+	<param name="y">Y location</param>
+	<param name="w">Width</param>
+	<param name="h">Height</param>
+	<returns>Cropped image</returns>
+	<remarks></remarks>
+</member><member name="P:ImageButton.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ImageButton.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ImageButton.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

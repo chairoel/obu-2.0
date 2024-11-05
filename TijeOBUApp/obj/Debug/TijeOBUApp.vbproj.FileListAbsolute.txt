@@ -1,0 +1,87 @@
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.FormOBU.resources
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.Resources.resources
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.GenerateResource.Cache
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.exe
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.pdb
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.xml
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.exe
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.xml
+C:\Users\TransJakarta\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.exe
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.xml
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.FormOBU.resources
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.Resources.resources
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.GenerateResource.Cache
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.exe
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.xml
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.ResolveComReference.cache
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.SR.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\M2Mqtt.NetCf35.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\ImageButton.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.OracleClient.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.Transactions.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.EnterpriseServices.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.Web.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\ImageButton.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\ImageButton.xml
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.SQLite.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2008\Projects\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.exe
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\TijeOBUApp.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.OracleClient.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.Transactions.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.EnterpriseServices.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.Web.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\ImageButton.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\ImageButton.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.ResolveComReference.cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.FormOBU.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.Resources.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.GenerateResource.Cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.exe
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.Form2.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\bin\Debug\System.SR.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.frmRute.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp\TijeOBUApp\obj\Debug\TijeOBUApp.Form3.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\TijeOBUApp.exe
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\TijeOBUApp.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\TijeOBUApp.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.SR.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.Data.OracleClient.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.Transactions.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.EnterpriseServices.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.Web.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\ImageButton.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\ImageButton.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\System.EnterpriseServices.Wrapper.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.ResolveComReference.cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.frmRute.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.Form2.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.FormOBU.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.Resources.resources
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.vbproj.GenerateResource.Cache
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.exe
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.xml
+C:\Users\Andre Hutagalung\Documents\TijeOBUApp-Modify\TijeOBUApp\obj\Debug\TijeOBUApp.pdb
